@@ -1,7 +1,7 @@
 # Universal Portal Form
 
 ## 📌 Description
-This is a beginner-level project created using HTML. It is a universal portal form used to collect user details like name, email, password, and other information.
+This is a beginner-level project created using HTML. It is a College portal form used to collect user details like name, email, password, and other information.
 
 ## 🚀 Features
 - Simple and clean form structure
